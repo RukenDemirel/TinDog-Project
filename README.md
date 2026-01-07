@@ -4,8 +4,7 @@ A simple responsive website built with **HTML** and **CSS** that helps dogs find
 
 ## Features
 - Responsive design using HTML and CSS
-- Attractive layout with dog-themed styling
-- Navigation bar with multiple sections
+-  Pricing section with structured cards for different plans  
 - Works on desktop and mobile devices
 
 ## Technologies Used
@@ -20,11 +19,3 @@ Check out the live website [here](https://rukendemirel.github.io/TinDog-Project/
 ![Main Page](Screenshot-1.png)
 ![Pricing Section](Screenshot-2.png)
 
-## How to Run Locally
-1. Clone the repository:  
-   `git clone https://github.com/YOUR_USERNAME/TinDog-Project.git`
-2. Open `index.html` in your browser
-
-## Future Improvements
-- Add JavaScript for interactive features
-- Improve accessibility and animations
