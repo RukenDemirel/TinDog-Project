@@ -17,8 +17,8 @@ A simple responsive website built with **HTML** and **CSS** that helps dogs find
 Check out the live website [here](https://rukendemirel.github.io/TinDog-Project/)
 
 ## Screenshots
-![Main Page](screenshot1.png)
-![Pricing Section](screenshot2.png)
+![Main Page](Screenshot1.png)
+![Pricing Section](Screenshot2.png)
 
 ## How to Run Locally
 1. Clone the repository:  
